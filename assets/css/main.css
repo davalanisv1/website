@@ -3139,7 +3139,7 @@ input, select, textarea {
 		}
 
 		.spotlight.style1 .content {
-			border-color: #e44c65;
+			border-color: #bac6e5;
 		}
 
 		.spotlight.style2 .content {
@@ -3150,6 +3150,9 @@ input, select, textarea {
 			border-color: #39c088;
 		}
 
+				.spotlight.style4 .content {
+			border-color: #80bba2;
+		}
 		.spotlight.inactive .content {
 			opacity: 0;
 		}
